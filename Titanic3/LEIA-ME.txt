@@ -1,0 +1,2 @@
+CONTEXTUALIZAÇÃO
+Projeto de estudo na área de ciência de dados com um dataset muito conhecido que é o Titanic. 
