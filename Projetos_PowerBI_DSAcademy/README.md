@@ -1,3 +1,4 @@
 # DS_Projetos
 
-Aqui estão meus principais projetos em Ciência de Dados.
+Projetos feitos ao longo do curso de Power Microsoft Power BI Para Data Science, Versão 2.0 da DATA SCIENCE ACADEMY
+
