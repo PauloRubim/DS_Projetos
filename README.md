@@ -1,3 +1,4 @@
-# DS_Projetos
+# Projetos Data Science (repositório "abandonado")
 
-Aqui estão meus principais projetos em Ciência de Dados.
+Costumava colocar alguns dos meus projetos de Data Science aqui mas preferi repostar em repositórios separados por uma questão de organização e compartilhamento.
+
